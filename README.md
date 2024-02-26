@@ -1,6 +1,8 @@
-<div>
+<div align="center">
 
-###  😊 Tech Stack
+### Hi, there 👋🏻
+
+### 🖥️ Tech Stack
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS5-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/SCSS-black?style=for-the-badge&logo=Sass&logoColor=CC6699"/><br />
 
 ![Next JS](https://img.shields.io/badge/NEXT.JS-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/REACT-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-%23323330.svg?style=for-the-badge&logo=javaScript&logoColor=%23F7DF1E)<br />
